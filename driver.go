@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jnewmano/mysql320/mysql"
-	"github.com/jnewmano/mysql320/native"
+	"github.com/weave-lab/mysql320/mysql"
+	"github.com/weave-lab/mysql320/native"
 )
 
 type conn struct {

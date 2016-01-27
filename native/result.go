@@ -6,7 +6,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/jnewmano/mysql320/mysql"
+	"github.com/weave-lab/mysql320/mysql"
 )
 
 type Result struct {
